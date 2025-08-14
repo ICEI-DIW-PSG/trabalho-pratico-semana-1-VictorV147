@@ -4,17 +4,18 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Victor Viriato do Carmo
+Matricula: 900699
 
 ## Tela de inspeção com navegador
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Tela inspecao](images/inspecao.PNG)
 
 ## Tela de projeto no Replit
 
 `<Coloque aqui o print da tela do projeto no Replit>`
-
+![Tela projeto replit](images/replit.PNG)
 
 ## Orientações sobre Linguagem MarkDown
 
